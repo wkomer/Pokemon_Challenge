@@ -1,0 +1,7 @@
+C:\Users\Kraken\Desktop\CSharp_Projects\PokemonChallenge\PokemonChallenge\bin\Debug\PokemonChallenge.dll
+C:\Users\Kraken\Desktop\CSharp_Projects\PokemonChallenge\PokemonChallenge\bin\Debug\PokemonChallenge.pdb
+C:\Users\Kraken\Desktop\CSharp_Projects\PokemonChallenge\PokemonChallenge\bin\Debug\nunit.framework.dll
+C:\Users\Kraken\Desktop\CSharp_Projects\PokemonChallenge\PokemonChallenge\bin\Debug\nunit.framework.xml
+C:\Users\Kraken\Desktop\CSharp_Projects\PokemonChallenge\PokemonChallenge\obj\Debug\PokemonChallenge.dll
+C:\Users\Kraken\Desktop\CSharp_Projects\PokemonChallenge\PokemonChallenge\obj\Debug\PokemonChallenge.pdb
+C:\Users\Kraken\Desktop\CSharp_Projects\PokemonChallenge\PokemonChallenge\obj\Debug\PokemonChallenge.csprojResolveAssemblyReference.cache
